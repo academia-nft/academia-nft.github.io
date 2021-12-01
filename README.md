@@ -1,9 +1,13 @@
 # academia-nft.github.io
+
+## Academe
+
 An NFT Marketplace application for people in Academia
 
-## How to 
+# How to 
 
 1. Update
+
    Either update the ganache account's private key in hardhat.config.js \
    Or register network in hardhat.config.js \
    If you are using your own network, then update rpcEndpoint in pages\index.js line 19 \
